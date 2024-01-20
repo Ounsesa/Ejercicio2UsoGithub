@@ -1,1 +1,3 @@
 Modifico el documento para el segundo commit
+
+Modifico en un lado para generar conflicto
